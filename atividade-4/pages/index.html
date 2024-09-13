@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/atividade-4/assets/css/style.css">
+
+    <title>Atividade 4</title>
+</head>
+<body>
+    <header>
+        <h1>Medicamentos da Farmácia</h1>
+    </header>
+    
+    <main>
+        <section class="product-list">
+            <article class="product-card">
+                <img src="../assets/img/xanax.jpg" alt="Imagem de Xanax">
+                <h2>Xanax</h2>
+                <p class="price">R$ 1,90</p>
+                <p>Xanax é um ansiolítico indicado para o tratamento de transtornos de ansiedade, com sintomas como ansiedade, apreensão, tensão ou medo</p>
+                <button class="buy-button" data-product="Xanax" data-price="1.90">Adicionar ao Carrinho</button>
+            </article>
+
+            <article class="product-card">
+                <img src="../assets/img/dipirona.jpg" alt="Imagem de Dipirona">
+                <h2>Dipirona</h2>
+                <p class="price">R$ 2,19</p>
+                <p>Dipirona é um analgésico e antitérmico utilizado em enfermidades que tenham dor e febre como sintomas.</p>
+                <button class="buy-button" data-product="Dipirona" data-price="2.19">Adicionar ao Carrinho</button>
+            </article>
+
+            <article class="product-card">
+                <img src="../assets/img/duloxetina.jpg" alt="Imagem de Duloxetina">
+                <h2>Duloxetina</h2>
+                <p class="price">R$ 9,90</p>
+                <p>Duloxetina é indicado para o tratamento da depressão..</p>
+                <button class="buy-button" data-product="Duloxetina" data-price="9.90">Adicionar ao Carrinho</button>
+            </article>
+
+            <article class="product-card">
+                <img src="../assets/img/nimesulida.jpg" alt="Imagem de Nimesulida">
+                <h2>Nimesulida</h2>
+                <p class="price">R$ 5,90</p>
+                <p>Nimesulida é um medicamento que apresenta propriedades que combatem a inflamação, a dor e a febre, e sua atividade anti-inflamatória envolve vários mecanismos. </p>
+                <button class="buy-button" data-product="Nimesulida" data-price="5.90">Adicionar ao Carrinho</button>
+            </article>
+
+            <article class="product-card">
+                <img src="../assets/img/paracetamol.jpg" alt="Imagem de Paracetamol">
+                <h2>Paracetamol</h2>
+                <p class="price">R$ 0,90</p>
+                <p>Paracetamol reduz a febre atuando no centro regulador da temperatura no sistema nervoso central (SNC) e diminui a sensibilidade para a dor</p>
+                <button class="buy-button" data-product="Paracetamol" data-price="0.90">Adicionar ao Carrinho</button>
+            </article>
+        </section>
+
+        <aside class="cart">
+            <h2>Carrinho de Compras</h2>
+            <ul id="cart-items">
+                <!-- Items do carrinho serão adicionados aqui -->
+            </ul>
+            <p id="cart-total">Total: R$ 0,00</p>
+            <a id="checkout-button" href="./compra_sucesso.html">Finalizar Compra</a>
+
+        </aside>
+    </main>
+
+    <!-- Optional JavaScript for functionality -->
+    <script src="/atividade-4/assets/js/script.js"></script>
+</body>
+</html>
