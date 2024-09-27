@@ -1,0 +1,1 @@
+node atividade-6/atividade-6.js arara a
