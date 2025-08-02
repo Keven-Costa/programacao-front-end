@@ -65,6 +65,8 @@ Um sistema web interativo de catálogo de medicamentos com carrinho de compras f
 
 - Botão "Finalizar Compra" com redirecionamento para página de sucesso
 
+Link da visualisação da aplicação: http://127.0.0.1:5500/atividade-4/pages/
+
 
 ### Atividade 5 - Fibonacci Sequence 
 
