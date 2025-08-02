@@ -16,7 +16,9 @@ Uma página web simples desenvolvida com HTML, CSS e JavaScript, contendo dois b
 
 - **Ir para o Google:** Redireciona o usuário para a página inicial do Google.
 
-Link da visualisação da aplicaçãonk: http://127.0.0.1:5500/atividade-1/pages/
+![meu Gif](./atividade-1/atividade-1.gif)
+
+Link da visualisação da aplicaçãonk: https://keven-costa.github.io/programacao-front-end/atividade-1/pages/
 
 
 <hr>
@@ -31,7 +33,9 @@ Uma página web responsiva desenvolvida com HTML, CSS e JavaScript, contendo um 
 
 - **Redirecionamento** para página de sucesso após envio (sucesso.html)
 
-Link da visualisação da aplicaçãonk: http://127.0.0.1:5500/atividade-3/pages/
+![meu Gif](./atividade-3/atividade-3.gif)
+
+Link da visualisação da aplicação: https://keven-costa.github.io/programacao-front-end/atividade-3/pages/index.html
 
 <hr>
 
@@ -65,7 +69,10 @@ Um sistema web interativo de catálogo de medicamentos com carrinho de compras f
 
 - Botão "Finalizar Compra" com redirecionamento para página de sucesso
 
-Link da visualisação da aplicação: http://127.0.0.1:5500/atividade-4/pages/
+![meu Gif](./atividade-4/atividade-4.gif)
+
+
+Link da visualisação da aplicação: https://keven-costa.github.io/programacao-front-end/atividade-4/pages/index.html
 
 
 ### Atividade 5 - Fibonacci Sequence 
